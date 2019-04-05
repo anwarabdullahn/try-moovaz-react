@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/try-moovaz-react/static/js/runtime~main.b3d7ebd3.js"
   },
   {
-    "revision": "75fee801cc15ca45e089",
-    "url": "/try-moovaz-react/static/js/main.0fa30aaf.chunk.js"
+    "revision": "6ca5a3e8dce2c325f11e",
+    "url": "/try-moovaz-react/static/js/main.ffca463b.chunk.js"
   },
   {
     "revision": "11a0bfc947ab161c0f63",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/try-moovaz-react/static/css/2.f12cf2f7.chunk.css"
   },
   {
-    "revision": "ec2c2416888b1cc487e4304dd4af962e",
+    "revision": "990cc93829a305d2ddef4b67a1d38f01",
     "url": "/try-moovaz-react/index.html"
   }
 ];

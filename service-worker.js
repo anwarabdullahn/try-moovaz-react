@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/try-moovaz-react/precache-manifest.87dcdd68da9548bcff8de7e6e1a765e4.js"
+  "/try-moovaz-react/precache-manifest.7c4d2caefd490ac0b2f4e326a34d6f93.js"
 );
 
 workbox.clientsClaim();
